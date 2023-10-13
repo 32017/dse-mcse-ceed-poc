@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[965],{47965:function(e,r,i){i.r(r);i(72791);var t=i(92667),c=i(56981),a=i(80184);r.default=function(){return(0,a.jsx)("div",{className:"pdfContainer",children:(0,a.jsx)(t.Z$,{width:"100%",height:"100%",children:(0,a.jsx)(c.es,{})})})}}}]);
-//# sourceMappingURL=965.5af438f5.chunk.js.map
